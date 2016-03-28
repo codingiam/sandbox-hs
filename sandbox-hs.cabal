@@ -1,0 +1,20 @@
+name:                sandbox-hs
+version:             0.1.0.0
+synopsis:            Simple project template from stack
+description:         Please see README.md
+homepage:            http://github.com/codingiam/sandbox-hs#readme
+license:             BSD3
+license-file:        LICENSE
+author:              Doru Budai
+maintainer:          doru.budai@gmail.com
+copyright:           Doru Budai
+category:            sandbox
+build-type:          Simple
+cabal-version:       >=1.10
+
+executable sandbox-hs
+  hs-source-dirs:      src
+  main-is:             Main.hs
+  default-language:    Haskell2010
+  build-depends:       base >= 4.7 && < 5
+  other-modules:       Ch01 HW01
