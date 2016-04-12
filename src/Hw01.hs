@@ -1,6 +1,6 @@
--- | HW01
+-- | Hw01
 
-module HW01 where
+module Hw01 where
 
 doubleEveryOther :: [Integer] -> [Integer]
 doubleEveryOther [] = []
