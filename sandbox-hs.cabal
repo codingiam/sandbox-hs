@@ -17,4 +17,4 @@ executable sandbox-hs
   main-is:             Main.hs
   default-language:    Haskell2010
   build-depends:       base >= 4.7 && < 5
-  other-modules:       Ch01 Hw01 Ch02a Ch02 Hw02 Ch03 Hw03 Ch04a
+  other-modules:       Ch01 Hw01 Ch02a Ch02 Hw02 Ch03 Hw03 Ch04a Ch04
